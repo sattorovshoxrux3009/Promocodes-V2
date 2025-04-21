@@ -339,7 +339,7 @@ const userLanguages = {};
 // /start komandasi
 bot.onText(/\/start/, (msg) => {
   const chatId = msg.chat.id;
-  bot.sendMessage(chatId, "Tilni tanlang / Choose a language / Выберите язык", {
+  bot.sendMessage(chatId, "Tilni tanlang / Выберите язык / Choose a language", {
     reply_markup: {
       keyboard: [["O'zbekcha", "Русский", "English"]],
       resize_keyboard: true,
@@ -349,7 +349,7 @@ bot.onText(/\/start/, (msg) => {
 });
 bot.onText(/\/options/, (msg) => {
   const chatId = msg.chat.id;
-  bot.sendMessage(chatId, "Tilni tanlang / Choose a language / Выберите язык", {
+  bot.sendMessage(chatId, "Tilni tanlang / Выберите язык / Choose a language", {
     reply_markup: {
       keyboard: [["O'zbekcha", "Русский", "English"]],
       resize_keyboard: true,
