@@ -451,7 +451,9 @@ bot.on("message", (msg) => {
                     : lang === "ru"
                     ? "🛍️ Перейти к приложению"
                     : "🛍️ Go to the app",
-                url: link1,
+                web_app: {
+                  url: link1,
+                },
               },
               {
                 text:
