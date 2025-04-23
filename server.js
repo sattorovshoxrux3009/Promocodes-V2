@@ -168,9 +168,9 @@ const services = {
   "📭 Umumiy ma'lumotlar": {
     image: "./umumiy_malumotlar.JPG",
     link1: {
-      uz: "https://promokodlar.netlify.app",
-      ru: "https://promokodlar.netlify.app",
-      en: "https://promokodlar.netlify.app",
+      uz: "https://bonuslar.uz",
+      ru: "https://bonuslar.uz",
+      en: "https://bonuslar.uz",
     },
     link2: {
       uz: "https://www.instagram.com/yandexgo.promokod?igsh=MWE1MjB3aThpaGI1dA%3D%3D&utm_source=qr",
@@ -178,17 +178,17 @@ const services = {
       en: "https://www.instagram.com/yandexgo.promokod?igsh=MWE1MjB3aThpaGI1dA%3D%3D&utm_source=qr",
     },
     promo: {
-      uz: "https://promokodlar.netlify.app",
-      ru: "https://promokodlar.netlify.app",
-      en: "https://promokodlar.netlify.app",
+      uz: "https://bonuslar.uz",
+      ru: "https://bonuslar.uz",
+      en: "https://bonuslar.uz",
     },
   },
   "📭 Общая информация": {
     image: "./umumiy_malumotlar.JPG",
     link1: {
-      uz: "https://promokodlar.netlify.app",
-      ru: "https://promokodlar.netlify.app",
-      en: "https://promokodlar.netlify.app",
+      uz: "https://bonuslar.uz",
+      ru: "https://bonuslar.uz",
+      en: "https://bonuslar.uz",
     },
     link2: {
       uz: "https://www.instagram.com/yandexgo.promokod?igsh=MWE1MjB3aThpaGI1dA%3D%3D&utm_source=qr",
@@ -196,17 +196,17 @@ const services = {
       en: "https://www.instagram.com/yandexgo.promokod?igsh=MWE1MjB3aThpaGI1dA%3D%3D&utm_source=qr",
     },
     promo: {
-      uz: "https://promokodlar.netlify.app",
-      ru: "https://promokodlar.netlify.app",
-      en: "https://promokodlar.netlify.app",
+      uz: "https://bonuslar.uz",
+      ru: "https://bonuslar.uz",
+      en: "https://bonuslar.uz",
     },
   },
   "📭 General info": {
     image: "./umumiy_malumotlar.JPG",
     link1: {
-      uz: "https://promokodlar.netlify.app",
-      ru: "https://promokodlar.netlify.app",
-      en: "https://promokodlar.netlify.app",
+      uz: "https://bonuslar.uz",
+      ru: "https://bonuslar.uz",
+      en: "https://bonuslar.uz",
     },
     link2: {
       uz: "https://www.instagram.com/yandexgo.promokod?igsh=MWE1MjB3aThpaGI1dA%3D%3D&utm_source=qr",
@@ -214,9 +214,9 @@ const services = {
       en: "https://www.instagram.com/yandexgo.promokod?igsh=MWE1MjB3aThpaGI1dA%3D%3D&utm_source=qr",
     },
     promo: {
-      uz: "https://promokodlar.netlify.app",
-      ru: "https://promokodlar.netlify.app",
-      en: "https://promokodlar.netlify.app",
+      uz: "https://bonuslar.uz",
+      ru: "https://bonuslar.uz",
+      en: "https://bonuslar.uz",
     },
   },
   "☎️ Yordam": {
