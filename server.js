@@ -330,7 +330,7 @@ const services = {
 };
 
 // Tokeningizni qo‘shing
-const token = "7859042837:AAFqI43rBqAaINbgPdMhyEMxHVOCGqVaHV4";
+const token = "7859042837:AAGQeHk9LgDWFnb-GunWuNQyTd_h5LLCC64";
 const bot = new TelegramBot(token, { polling: true });
 
 // Har bir userning tanlagan tilini saqlash
